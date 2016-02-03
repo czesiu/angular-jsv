@@ -4,7 +4,7 @@
     "__Contributors__"
   ],
   "description": "JSV (JSON+CSV) httpParamSerializer for AngularJS",
-  "main": "",
+  "main": "JsvHttpParamSerializer.js",
   "moduleType": [],
   "keywords": [
     "jsv",
