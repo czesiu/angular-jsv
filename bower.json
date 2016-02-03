@@ -1,0 +1,22 @@
+{
+  "name": "angular-jsv",
+  "authors": [
+    "__Contributors__"
+  ],
+  "description": "JSV (JSON+CSV) httpParamSerializer for AngularJS",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "jsv",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/czesiu/angular-jsv",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
