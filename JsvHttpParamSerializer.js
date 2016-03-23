@@ -65,7 +65,7 @@ angular.module("JSV", [])
                 forEachSorted(params, function (value, key) {
                     if (value === null || angular.isUndefined(value)) return;
                     if (angular.isArray(value)) {
-                        forEach(value, function (v, k) {
+                        angular.forEach(value, function (v, k) {
                             parts.push(encodeUriQuery(key) + '=' + encodeUriQuery(serializeValue(v)));
                         });
                     } else {
