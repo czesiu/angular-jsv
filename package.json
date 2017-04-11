@@ -1,0 +1,17 @@
+{
+  "name": "angular-jsv",
+  "version": "1.0.3",
+  "description": "JSV (JSON+CSV) httpParamSerializer for AngularJS",
+  "license": "MIT",
+  "homepage": "https://github.com/czesiu/angular-jsv",
+  "main": "JsvHttpParamSerializer.js",
+  "files": [],
+  "keywords": [
+    "jsv",
+    "angularJS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/czesiu/angular-jsv.git"
+  }
+}
