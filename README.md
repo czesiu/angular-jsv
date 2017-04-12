@@ -4,6 +4,14 @@ JSV (JSON+CSV) httpParamSerializer for AngularJS
 ### Installing
 
 ```bash
+    npm install angular-jsv
+```
+or
+```bash
+    yarn install angular-jsv
+```
+or
+```bash
     bower install angular-jsv
 ```
 
